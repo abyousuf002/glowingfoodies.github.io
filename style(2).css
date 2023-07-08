@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+}
+.banner{width: 100%;
+    height: 100vh;
+    background-color: rgba(88, 4, 4, 0.836);
+    background-size: cover;
+    background-position: center;
+}
+.content{
+    width: 100%;
+    position: absolute;
+    top: 10%;
+    transform: translateY(-20%);
+    text-align: top;
+    color: #ff6a24;
+}
+.content h1{
+    font-size: 68px;
+    margin-top: 70px;
+}
+.content p{
+    margin: 60px auto;
+    font-weight: 100;
+    line-height: 35px;
+}
