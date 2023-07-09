@@ -4,8 +4,8 @@
     font-family: 'poppins',sans-serif;
 }
 .banner{width: 100%;
-    height: 100vh;
-    background-color: rgba(88, 4, 4, 0.836);
+    height: 70vh;
+    background-color: rgb(255, 255, 255);
     background-size: cover;
     background-position: center;
 }
@@ -14,7 +14,7 @@
     position: absolute;
     top: 10%;
     transform: translateY(-20%);
-    text-align: top;
+    text-align: center;
     color: #ff6a24;
 }
 .content h1{
@@ -25,4 +25,10 @@
     margin: 60px auto;
     font-weight: 100;
     line-height: 35px;
+}
+.section{width: 100%;
+    height: 100vh;
+    background-color: rgb(230, 213, 213);
+    background-size: cover;
+    background-position: center;
 }
